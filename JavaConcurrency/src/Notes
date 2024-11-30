@@ -1,0 +1,29 @@
+Java 21 has super light weight threads and it is managed by JVM not by respective operating system .
+Is called virtual thread and these are mapped to real thread when the execution happens.
+
+Usually when we create the normal thread the
+
+Java Threads
+Threads allows a program to operate more efficiently by doing multiple things at the same time.
+Threads can be used to perform complicated tasks in the background without interrupting the main program.
+
+The accept is like foreach
+Then apply like map
+
+Stream is one or more stream of operation
+complete feature is one sequence it goes (it goes through one pipeline either complete throw a exception)
+
+Observable is 0 or many pieces of data
+Promise Zero or one  piece of data (exception , result )
+
+How to handle the exception
+Promises has 2 channel one is data channel and other is
+
+Are you dealing with the exception or recovering from the exception
+
+X1 -- X2 -- X3
+\         /
+  \     /
+E1--- E2 -- E3
+
+Timeout always in life and personnel
